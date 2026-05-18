@@ -1,4 +1,4 @@
-# Fraud Detection - Binary Classification
+# Credit Card Fraud Detection Pipeline
 
 ## Problem
 Financial institutions face significant losses due to fraudulent transactions. Detecting fraud at the transaction level is a critical task.
