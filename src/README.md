@@ -1,1 +1,1 @@
-Source code for reusable components.
+Local pipeline implementation.
