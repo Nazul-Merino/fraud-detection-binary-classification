@@ -138,7 +138,6 @@ The architecture leverages:
 * PySpark
 * Azure Databricks
 * Azure Data Lake Storage Gen2
-* Distributed table persistence
 * Modular production scripts
 * Apache Airflow orchestration
 
