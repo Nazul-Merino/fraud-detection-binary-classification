@@ -15,6 +15,8 @@ Feature importance analyses consistently identified variables such as V14, V12, 
 The insights generated throughout these notebooks were subsequently used to define the production-oriented preprocessing strategy, feature engineering workflow, model evaluation framework, cloud architecture design, and orchestration strategy implemented in the later phases of the project.
 
 Readers interested in the complete technical findings may refer to:
+
 •	docs/phase_1_exploratory_analysis_summary.pdf
+
 •	docs/phase_2_production_architecture_summary.pdf
 
