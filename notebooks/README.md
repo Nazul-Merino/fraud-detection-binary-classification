@@ -1,4 +1,4 @@
-                                                   ##   Exploratory Analysis Notebooks
+##   Exploratory Analysis Notebooks
                                           
 This directory contains the exploratory analysis, data quality assessment, feature engineering experiments, model development, and evaluation workflows that served as the analytical foundation of the fraud detection project.
 
