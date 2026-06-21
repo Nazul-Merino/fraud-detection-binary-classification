@@ -148,7 +148,7 @@ The architecture leverages:
 * Modular production scripts
 * Apache Airflow orchestration
 
-As a result, the current implementation can evolve toward larger transactional workloads with appropriate infrastructure sizing, cluster tuning, storage optimization, and production hardening.
+As a result, the current implementation can evolve toward larger transactional workloads with appropriate infrastructure sizing, cluster tuning, and storage optimization.
 
 The project therefore serves as both a machine learning solution and a scalable cloud-oriented data pipeline.
 
