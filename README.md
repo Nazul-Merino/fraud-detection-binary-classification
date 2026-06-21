@@ -1,5 +1,14 @@
 # Credit Card Fraud Detection Pipeline
 
+---
+
+### Author
+
+Nazul Merino, PhD  
+Data Scientist | Applied Mathematics | Machine Learning
+
+---
+
 ## Problem
 
 Financial institutions process millions of transactions every day and face significant financial losses due to fraudulent activity. Detecting fraudulent transactions is particularly challenging because fraud events are extremely rare compared to legitimate transactions, resulting in highly imbalanced datasets.
@@ -15,11 +24,8 @@ Develop an end-to-end fraud detection pipeline capable of identifying fraudulent
 The project covers the complete workflow from data ingestion and exploratory analysis to cloud deployment, orchestration, model training, evaluation, and artifact persistence.
 
 ---
-### Author
 
-Nazul Merino, PhD  
-Data Scientist | Applied Mathematics | Machine Learning
----
+
 
 ## Dataset Overview
 
