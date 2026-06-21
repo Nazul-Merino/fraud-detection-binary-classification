@@ -99,6 +99,7 @@ This evaluation strategy better reflects the operational requirements of real-wo
 * Successfully implemented and validated a complete cloud-oriented fraud detection architecture.
 * Successfully orchestrated the entire pipeline using Apache Airflow and Azure Databricks.
 
+  A comprehensive summary of these analytical results can be found in: docs/fraud_detection_results_showcase.pdf
 ---
 
 ## Technology Stack
