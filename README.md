@@ -181,7 +181,7 @@ Both implementations were successfully validated.
 
 ### `data/`
 
-Dataset documentation, metadata, and access instructions. Raw datasets are not stored in the repository. Data acquisition is performed automatically through the Kaggle API.
+Dataset documentation, dataset description and access instructions. Raw datasets are not stored in the repository. Data acquisition is performed automatically through the Kaggle API.
 
 ### `notebooks/`
 
