@@ -49,7 +49,7 @@ Model Training
 Model Evaluation
 ```
 
-The difference lies in the execution environment and orchestration strategy.
+Both implementations follow the same machine learning workflow and business logic. However, the underlying processing framework differs between environments. The local implementation relies primarily on Pandas and Scikit-Learn, while the cloud-oriented implementation was migrated to PySpark and Spark ML to support distributed processing and cloud scalability. The orchestration strategy also differs between implementations.
 
 ---
 
