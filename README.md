@@ -62,6 +62,13 @@ The project was developed in two major phases.
 * Automated dataset ingestion through Kaggle API
 * End-to-end cloud pipeline validation
 
+The exploratory analysis, experimentation, and model development process can be found in the `notebooks/` directory.
+
+Readers interested in the complete technical findings, model evaluation results, and architecture decisions may refer to:
+
+- `docs/phase_1_exploratory_analysis_summary.pdf`
+- `docs/phase_2_production_architecture_summary.pdf`
+
 ---
 
 ## Handling Extreme Class Imbalance
