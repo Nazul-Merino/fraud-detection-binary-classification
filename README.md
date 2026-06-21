@@ -214,7 +214,7 @@ Contains Apache Airflow DAGs.
 * `fraud_pipeline_local_dag.py`
 * `fraud_pipeline_cloud_databricks_dag.py`
 
-These DAGs demonstrate both local and cloud orchestration strategies.
+These DAGs demonstrate both local and cloud orchestration strategies. Screenshots demonstrating the successful implementation and execution of these orchestration workflows are available in the screenshots/ directory.
 
 ### `docs/`
 
